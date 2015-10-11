@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no" ?>
+<ret version="1.0" date="9/20/2014">
+	<feed>
+		<source>
+			<name>Make Blog</name>
+			<url>http://makezine.com/blog/</url>
+		</source>
+		<feed-desc>
+			<par>
+				Hobby projects for DIY folks.<break/>
+				<bold><italic>Lots<break/>of<break/>fun.</italic></bold>
+			</par>
+		</feed-desc>
+		<info>
+			<copyright>Make Communications, 2014</copyright>
+			<updated>9/19/2014 at 12:00:00 PM</updated>
+			<location>San Francisco</location>
+		</info>
+		<stories>
+			<story>
+				<title>
+					This Sleek Media Player Has Raspberry Pi Inside
+				</title>
+				<url>
+					http://makezine.com/2014/09/21/this-sleek-media-player-has-raspberry-pi-inside/
+				</url>
+				<preview>
+					Mo Volans from FiveNinjas shares Slice at World Maker Faire New York 2014.
+				</preview>
+				<content>
+					<par>
+					Mo Volans from FiveNinjas shares Slice at World Maker Faire New York 2014.
+					</par>
+					<par>
+					More information ....
+					</par>
+				</content>
+				<publication-date>9/20/2014</publication-date>
+			</story>
+			<story updated="unknown">
+				<title>DIY Human-Powered Exoskeleton</title>
+				<url>
+					http://makezine.com/2014/09/21/diy-human-powered-exoskeleton/
+				</url>
+				<preview>
+					Run faster, jump higher, and make it yourself. 
+				</preview>
+				<content>
+					<par>
+					Run faster, jump higher, and make it yourself.
+					</par>
+					<par>
+					More information &nbsp; . &nbsp; . &nbsp; .
+					</par>
+				</content>
+				<publication-date>9/20/2014</publication-date>
+			</story>
+		</stories>
+	</feed>
+	<doc-copyright legal-statement="This feed and its format is copyright RET"/>
+</ret>
